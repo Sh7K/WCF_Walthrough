@@ -1,0 +1,5 @@
+c:\users\vigalantee\documents\visual studio 2015\Projects\NumericService\NumericService\bin\Debug\NumericService.dll
+c:\users\vigalantee\documents\visual studio 2015\Projects\NumericService\NumericService\bin\Debug\NumericService.pdb
+c:\users\vigalantee\documents\visual studio 2015\Projects\NumericService\NumericService\obj\Debug\NumericService.csprojResolveAssemblyReference.cache
+c:\users\vigalantee\documents\visual studio 2015\Projects\NumericService\NumericService\obj\Debug\NumericService.dll
+c:\users\vigalantee\documents\visual studio 2015\Projects\NumericService\NumericService\obj\Debug\NumericService.pdb
